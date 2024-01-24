@@ -1,0 +1,14 @@
+
+*. the program's Main Entry point is : hotkeper
+
+*. Duties of hotkeper:
+    1. START and END the program.
+    2. read script files and translate using: script-parser
+    3. capture input devices using: input-capture
+    4. lookup for matching hotkeys and send input using: uinput
+    5. manage plugin using: plugin-manager
+
+
+
+
+
