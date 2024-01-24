@@ -7,7 +7,7 @@
     3. capture input devices using: input-capture
     4. lookup for matching hotkeys and send input using: uinput
     5. manage plugin using: plugin-manager
-
+ 
 
 
 
